@@ -5,6 +5,8 @@ This is a challenge in creating games to improve my skills.
 
  ## Day9 : Checkers
  
+   ![GitHub Logo](/images/image1.png)
+ 
 **Let's play : https://book1317.github.io/unity-checkers/**
 
 ## Other Projects
