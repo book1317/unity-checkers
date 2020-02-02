@@ -5,7 +5,9 @@ This is a challenge in creating games to improve my skills.
 
  ## Day9 : Checkers
  
-   ![GitHub Logo](/images/image1.png)
+  <a href="https://book1317.github.io/unity-checkers/">
+ <img src="/images/image1.png" />
+  </a>
  
 **Let's play : https://book1317.github.io/unity-checkers/**
 
@@ -20,5 +22,7 @@ This is a challenge in creating games to improve my skills.
 * Day7 : <a href="https://github.com/book1317/unity-snake" target="_blank">**Snake**</a>
 * Day8 : <a href="https://github.com/book1317/unity-numberpuzzle" target="_blank">**NumberPuzzle**</a>
 * Day9 : <a href="https://github.com/book1317/unity-checkers" target="_blank">**Checkers**</a>
-
+* Day10 : <a href="https://github.com/book1317/unity-breakout" target="_blank">**BreakOut**</a>
+* Day11 : <a href="https://github.com/book1317/unity-samegame" target="_blank">**SameGame**</a>
+* Day12 : <a href="https://github.com/book1317/unity-tetris" target="_blank">**Tetris**</a>
 
